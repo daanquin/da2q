@@ -1,0 +1,2 @@
+#!bash
+python Corrector.py
